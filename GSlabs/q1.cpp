@@ -17,3 +17,4 @@ int main()
 
 	cout<<c;
 }
+//rm -rf .git
